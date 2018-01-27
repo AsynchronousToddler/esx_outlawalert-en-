@@ -1,6 +1,6 @@
 # esx_outlawalert-en-
 The script originally from TanguyOrtegat translated to Enlgish by ThatZiv. ONLY ESX
-https://forum.fivem.net/t/esx-outtlawalert/53639 --orignal link
+https://forum.fivem.net/t/esx-outtlawalert/53639 --original link
 
 Instalation
 -Put esx_outlawalert folder in resources
